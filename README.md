@@ -1,6 +1,6 @@
 # Jeu de rôle fake en Python pour apprendre les commandes GIT
 
-Ce dépot a été créé dans le cadre de la vidéo Youtube xxxx de la chaîne [Bande de codeurs](https://www.youtube.com/@bandedecodeurs) afin d'expliquer les commandes GIT.
+Ce dépot a été créé dans le cadre de la vidéo Youtube "Apprendre à utiliser GIT" de la chaîne [Bande de codeurs](https://www.youtube.com/@bandedecodeurs) afin d'expliquer les commandes GIT.
 
 
 
